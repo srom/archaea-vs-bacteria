@@ -9,3 +9,4 @@ dependencies:
   - seaborn
   - python=3.11
   - matplotlib
+  - conda-forge::adjusttext

@@ -1,0 +1,28 @@
+DATASET_HEATMAP
+SEPARATOR COMMA
+DATASET_LABEL,% archaeal genomes in phylum
+COLOR,#d55e00
+FIELD_LABELS,AMIN+Amidase_3,CW_7+LysM+Glyco_hydro_25,Choline_bind_1+Choline_bind_3+Amidase_3,LysM+Amidase_2,LysM+Amidase_3,LysM+Amidase_6,LysM+NLPC_P60,LysM+Peptidase_M15,LysM+Peptidase_M23,LysM+Phage_lysozyme2,LysM+SLT,PG_binding_1+Amidase_2,PG_binding_1+Glucosaminidase,PG_binding_1+Glyco_hydro_25,PG_binding_1+Peptidase_M15,PG_binding_1+Peptidase_M23,PG_binding_1+VanY,PG_binding_3+Glyco_hydro_108,PG_binding_3+Glyco_hydro_108+Peptidase_M23,SH3_16+NLPC_P60,SH3_3+Amidase_2,SH3_3+Amidase_3,SH3_3+Amidase_6+Glyco_hydro_25,SH3_3+Glyco_hydro_25,SH3_3+NLPC_P60,SH3_4+NLPC_P60,SH3_6+NLPC_P60,SPOR+Amidase_2,SPOR+SLT
+DASHED_LINES,1
+SHOW_INTERNAL,0
+LEGEND_TITLE,% archaeal genomes in phylum
+LEGEND_LABELS,AMIN+Amidase_3,CW_7+LysM+Glyco_hydro_25,Choline_bind_1+Choline_bind_3+Amidase_3,LysM+Amidase_2,LysM+Amidase_3,LysM+Amidase_6,LysM+NLPC_P60,LysM+Peptidase_M15,LysM+Peptidase_M23,LysM+Phage_lysozyme2,LysM+SLT,PG_binding_1+Amidase_2,PG_binding_1+Glucosaminidase,PG_binding_1+Glyco_hydro_25,PG_binding_1+Peptidase_M15,PG_binding_1+Peptidase_M23,PG_binding_1+VanY,PG_binding_3+Glyco_hydro_108,PG_binding_3+Glyco_hydro_108+Peptidase_M23,SH3_16+NLPC_P60,SH3_3+Amidase_2,SH3_3+Amidase_3,SH3_3+Amidase_6+Glyco_hydro_25,SH3_3+Glyco_hydro_25,SH3_3+NLPC_P60,SH3_4+NLPC_P60,SH3_6+NLPC_P60,SPOR+Amidase_2,SPOR+SLT
+COLOR_MIN,#ffffff
+COLOR_MAX,#f58231
+USER_MIN_VALUE,0
+USER_MAX_VALUE,5
+DATA
+Aenigmatarchaeota,0.0,0.0,0.0,0.758,0.0,0.0,0.758,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.515,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Altiarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.846,0.0,0.0,0.0,3.846,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Asgardarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.532,0.532,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.532,0.0,0.0,0.532,1.064,0.0,0.0,0.0,0.0,0.0
+Hadarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Halobacteriota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.947,0.812,0.0,0.0,0.677,0.0,0.406,0.0,0.0,0.541,0.0,0.0,0.0,4.195,0.406,0.0,0.0,0.0
+Hydrothermarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Iainarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Methanobacteriota,0.0,0.483,0.483,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.483,0.0
+Micrarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.826,0.0,0.0,0.0,0.0,0.0,0.0,0.413,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nanoarchaeota,0.0,0.0,0.0,0.288,0.144,0.0,0.144,0.863,0.288,0.0,4.029,0.288,0.144,0.0,0.144,0.144,0.0,1.007,0.144,0.144,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.144
+Nanohaloarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.385,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thermoplasmatota,0.167,0.0,0.0,0.0,0.0,0.167,0.0,0.0,0.167,0.167,0.167,0.334,0.0,0.167,0.0,0.0,0.0,0.0,0.0,3.177,0.0,0.0,1.003,0.0,1.505,0.0,0.0,0.0,0.0
+Thermoproteota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.709,0.142,0.0,0.0,0.0,0.0,0.284,0.284,0.0,0.142,0.0,0.142,0.0,0.0,0.426,0.0,0.142,0.0,0.0
+Undinarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

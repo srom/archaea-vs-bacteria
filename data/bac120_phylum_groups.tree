@@ -1,0 +1,271 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>d__Bacteria</name>
+      <clade>
+        <name>Spirochaetota</name>
+        <branch_length>0.0309590665</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.0595233915</branch_length>
+        <confidence type="unknown">19.0</confidence>
+        <clade>
+          <name>Dependentiae</name>
+          <branch_length>0.583570195</branch_length>
+        </clade>
+        <clade>
+          <branch_length>0.056023922000000004</branch_length>
+          <confidence type="unknown">1.0</confidence>
+          <clade>
+            <branch_length>0.072403132</branch_length>
+            <confidence type="unknown">7.0</confidence>
+            <clade>
+              <name>Planctomycetota</name>
+              <branch_length>0.1290168</branch_length>
+            </clade>
+            <clade>
+              <branch_length>0.063857871</branch_length>
+              <confidence type="unknown">39.0</confidence>
+              <clade>
+                <name>Chlamydiota</name>
+                <branch_length>0.292883671</branch_length>
+              </clade>
+              <clade>
+                <name>Verrucomicrobiota</name>
+                <branch_length>0.08512915</branch_length>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.025462359</branch_length>
+            <confidence type="unknown">0.0</confidence>
+            <clade>
+              <branch_length>0.019937518</branch_length>
+              <confidence type="unknown">0.0</confidence>
+              <clade>
+                <branch_length>0.10680787200000001</branch_length>
+                <confidence type="unknown">7.0</confidence>
+                <clade>
+                  <branch_length>0.029037329</branch_length>
+                  <confidence type="unknown">16.0</confidence>
+                  <clade>
+                    <branch_length>0.029170727</branch_length>
+                    <confidence type="unknown">26.0</confidence>
+                    <clade>
+                      <name>Fibrobacterota</name>
+                      <branch_length>0.154301902</branch_length>
+                    </clade>
+                    <clade>
+                      <branch_length>0.097332572</branch_length>
+                      <confidence type="unknown">75.0</confidence>
+                      <clade>
+                        <name>Bacteroidota</name>
+                        <branch_length>0.145603635</branch_length>
+                      </clade>
+                      <clade>
+                        <name>Marinisomatota</name>
+                        <branch_length>0.089373078</branch_length>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Cloacimonadota</name>
+                    <branch_length>0.314926939</branch_length>
+                  </clade>
+                </clade>
+                <clade>
+                  <branch_length>0.049596822</branch_length>
+                  <confidence type="unknown">0.0</confidence>
+                  <clade>
+                    <name>Zixibacteria</name>
+                    <branch_length>0.166782781</branch_length>
+                  </clade>
+                  <clade>
+                    <name>Gemmatimonadota</name>
+                    <branch_length>0.169518887</branch_length>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.039205464</branch_length>
+                <confidence type="unknown">1.0</confidence>
+                <clade>
+                  <name>Acidobacteriota</name>
+                  <branch_length>0.11265404300000001</branch_length>
+                </clade>
+                <clade>
+                  <branch_length>0.028919926</branch_length>
+                  <confidence type="unknown">2.0</confidence>
+                  <clade>
+                    <branch_length>0.025907845</branch_length>
+                    <confidence type="unknown">0.0</confidence>
+                    <clade>
+                      <branch_length>0.136392656</branch_length>
+                      <confidence type="unknown">18.0</confidence>
+                      <clade>
+                        <name>Campylobacterota</name>
+                        <branch_length>0.07577795</branch_length>
+                      </clade>
+                      <clade>
+                        <name>Aquificota</name>
+                        <branch_length>0.110246681</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Pseudomonadota</name>
+                      <branch_length>0.131837996</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.03145134</branch_length>
+                    <confidence type="unknown">0.0</confidence>
+                    <clade>
+                      <branch_length>0.039904008</branch_length>
+                      <confidence type="unknown">0.0</confidence>
+                      <clade>
+                        <branch_length>0.069676741</branch_length>
+                        <confidence type="unknown">0.0</confidence>
+                        <clade>
+                          <branch_length>0.077939071</branch_length>
+                          <confidence type="unknown">27.0</confidence>
+                          <clade>
+                            <name>Nitrospinota</name>
+                            <branch_length>0.12696870999999998</branch_length>
+                          </clade>
+                          <clade>
+                            <name>Nitrospirota</name>
+                            <branch_length>0.09088113</branch_length>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>Desulfobacterota</name>
+                          <branch_length>0.021803684</branch_length>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>Myxococcota</name>
+                        <branch_length>0.10432693800000001</branch_length>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Bdellovibrionota</name>
+                      <branch_length>0.058085747</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.018665184</branch_length>
+              <confidence type="unknown">0.0</confidence>
+              <clade>
+                <branch_length>0.037296014</branch_length>
+                <confidence type="unknown">2.0</confidence>
+                <clade>
+                  <branch_length>0.02602003</branch_length>
+                  <confidence type="unknown">0.0</confidence>
+                  <clade>
+                    <branch_length>0.032387139</branch_length>
+                    <confidence type="unknown">0.0</confidence>
+                    <clade>
+                      <name>Deinococcota</name>
+                      <branch_length>0.339415994</branch_length>
+                    </clade>
+                    <clade>
+                      <name>Patescibacteria</name>
+                      <branch_length>0.14045639000000001</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>Fusobacteriota</name>
+                    <branch_length>0.329224254</branch_length>
+                  </clade>
+                </clade>
+                <clade>
+                  <branch_length>0.021514434</branch_length>
+                  <confidence type="unknown">0.0</confidence>
+                  <clade>
+                    <branch_length>0.032018913</branch_length>
+                    <confidence type="unknown">0.0</confidence>
+                    <clade>
+                      <name>Synergistota</name>
+                      <branch_length>0.14311697099999998</branch_length>
+                    </clade>
+                    <clade>
+                      <name>Thermotogota</name>
+                      <branch_length>0.264714617</branch_length>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <branch_length>0.025109171</branch_length>
+                    <confidence type="unknown">4.0</confidence>
+                    <clade>
+                      <branch_length>0.049344205</branch_length>
+                      <confidence type="unknown">8.0</confidence>
+                      <clade>
+                        <name>Actinomycetota</name>
+                        <branch_length>0.102852279</branch_length>
+                      </clade>
+                      <clade>
+                        <branch_length>0.038447703</branch_length>
+                        <confidence type="unknown">7.0</confidence>
+                        <clade>
+                          <branch_length>0.027872791</branch_length>
+                          <confidence type="unknown">14.0</confidence>
+                          <clade>
+                            <branch_length>0.029574678</branch_length>
+                            <confidence type="unknown">1.0</confidence>
+                            <clade>
+                              <branch_length>0.102291113</branch_length>
+                              <confidence type="unknown">100.0</confidence>
+                              <clade>
+                                <name>Dormibacterota</name>
+                                <branch_length>0.196863348</branch_length>
+                              </clade>
+                              <clade>
+                                <name>Chloroflexota</name>
+                                <branch_length>0.04756651</branch_length>
+                              </clade>
+                            </clade>
+                            <clade>
+                              <name>Armatimonadota</name>
+                              <branch_length>0.073150847</branch_length>
+                            </clade>
+                          </clade>
+                          <clade>
+                            <name>Eremiobacterota</name>
+                            <branch_length>0.061869347</branch_length>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>Bacillota</name>
+                          <branch_length>0.277505862</branch_length>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>Cyanobacteriota</name>
+                      <branch_length>0.15654843000000002</branch_length>
+                    </clade>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.035821254</branch_length>
+                <confidence type="unknown">4.0</confidence>
+                <clade>
+                  <name>Elusimicrobiota</name>
+                  <branch_length>0.24517645899999999</branch_length>
+                </clade>
+                <clade>
+                  <name>Omnitrophota</name>
+                  <branch_length>0.186798336</branch_length>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>

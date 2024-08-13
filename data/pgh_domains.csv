@@ -1,0 +1,80 @@
+﻿accession,short_name,description,kind
+PF11741.11,AMIN,AMIN domain,Cell wall binding
+PF01473.23,Choline_bind_1,Putative cell wall binding repeat,Cell wall binding
+PF19085.3,Choline_bind_2,Choline-binding repeat,Cell wall binding
+PF19127.3,Choline_bind_3,Choline-binding repeat,Cell wall binding
+PF08230.14,CW_7,CW_7 repeat,Cell wall binding
+PF04122.15,CW_binding_2,Cell wall binding domain 2 (CWB2),Cell wall binding
+PF13457.9,GW,GW (Gly-Tryp) dipeptide domain,Cell wall binding
+PF01476.23,LysM,LysM domain,Cell wall binding
+PF04225.15,OapA,Opacity-associated protein A LysM-like domain,Cell wall binding
+PF01471.21,PG_binding_1,Putative peptidoglycan binding domain,Cell wall binding
+PF08823.14,PG_binding_2,Putative peptidoglycan binding domain,Cell wall binding
+PF09374.13,PG_binding_3,Predicted Peptidoglycan domain,Cell wall binding
+PF18341.4,PSA_CBD,PSA endolysin C-terminal cell wall binding domain,Cell wall binding
+PF00018.31,SH3_1,SH3 domain,Cell wall binding
+PF18348.4,SH3_16,Bacterial dipeptidyl-peptidase Sh3 domain,Cell wall binding
+PF07653.20,SH3_2,Variant SH3 domain,Cell wall binding
+PF08239.14,SH3_3,Bacterial SH3 domain,Cell wall binding
+PF06347.16,SH3_4,Bacterial SH3 domain,Cell wall binding
+PF08460.13,SH3_5,Bacterial SH3 domain,Cell wall binding
+PF12913.10,SH3_6,SH3 domain (SH3b1 type),Cell wall binding
+PF12914.10,SH3_7,SH3 domain of SH3b2 type,Cell wall binding
+PF14604.9,SH3_9,Variant SH3 domain,Cell wall binding
+PF05036.16,SPOR,SPOR domain,Cell wall binding
+PF16775.8,ZoocinA_TRD,Target recognition domain of lytic exoenzyme,Cell wall binding
+PF01425.24,Amidase,Amidase,Catalytic
+PF01510.28,Amidase_2,N-acetylmuramoyl-L-alanine amidase,Catalytic
+PF01520.21,Amidase_3,N-acetylmuramoyl-L-alanine amidase,Catalytic
+PF05382.16,Amidase_5,Bacteriophage peptidoglycan hydrolase ,Catalytic
+PF12671.10,Amidase_6,Putative amidase domain,Catalytic
+PF14521.9,Aspzincin_M35,Lysine-specific metallo-endopeptidase ,Catalytic
+PF05257.19,CHAP,CHAP domain,Catalytic
+PF01832.23,Glucosaminidase,Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase,Catalytic
+PF05838.15,Glyco_hydro_108,Glycosyl hydrolase 108,Catalytic
+PF01183.23,Glyco_hydro_25,Glycosyl hydrolases family 25,Catalytic
+PF13702.9,Lysozyme_like,Lysozyme-like,Catalytic
+PF00877.22,NLPC_P60,NlpC/P60 family,Catalytic
+PF18027.4,Pepdidase_M14_N,Cytosolic carboxypeptidase N-terminal domain,Catalytic
+PF17222.6,Peptidase_C107,Viral cysteine endopeptidase C107,Catalytic
+PF05381.15,Peptidase_C21,Tymovirus endopeptidase,Catalytic
+PF05379.14,Peptidase_C23,Carlavirus endopeptidase ,Catalytic
+PF03510.17,Peptidase_C24,2C endopeptidase (C24) cysteine protease family,Catalytic
+PF05407.15,Peptidase_C27,Rubella virus endopeptidase,Catalytic
+PF05409.16,Peptidase_C30,Coronavirus endopeptidase C30,Catalytic
+PF05413.14,Peptidase_C34,Putative closterovirus papain-like endopeptidase,Catalytic
+PF05415.14,Peptidase_C36,Beet necrotic yellow vein furovirus-type papain-like endopeptidase,Catalytic
+PF05533.15,Peptidase_C42,Beet yellows virus-type papain-like endopeptidase C42,Catalytic
+PF05550.14,Peptidase_C53,Pestivirus Npro endopeptidase C53,Catalytic
+PF05708.15,Peptidase_C92,"Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family",Catalytic
+PF00246.27,Peptidase_M14,Zinc carboxypeptidase,Catalytic
+PF01427.20,Peptidase_M15,D-ala-D-ala dipeptidase,Catalytic
+PF05951.16,Peptidase_M15_2,Bacterial protein of unknown function (DUF882),Catalytic
+PF08291.14,Peptidase_M15_3,Peptidase M15 ,Catalytic
+PF13539.9,Peptidase_M15_4,D-alanyl-D-alanine carboxypeptidase,Catalytic
+PF01401.21,Peptidase_M2,Angiotensin-converting enzyme,Catalytic
+PF01551.25,Peptidase_M23,Peptidase family M23,Catalytic
+PF07580.17,Peptidase_M26_C,M26 IgA1-specific Metallo-endopeptidase C-terminal region,Catalytic
+PF05342.17,Peptidase_M26_N,M26 IgA1-specific Metallo-endopeptidase N-terminal region,Catalytic
+PF02074.18,Peptidase_M32,Carboxypeptidase Taq (M32) metallopeptidase,Catalytic
+PF12389.11,Peptidase_M73,Camelysin metallo-endopeptidase,Catalytic
+PF03411.16,Peptidase_M74,Penicillin-insensitive murein endopeptidase,Catalytic
+PF17033.8,Peptidase_M99,Carboxypeptidase controlling helical cell shape catalytic,Catalytic
+PF17129.7,Peptidase_M99_C,C-terminal domain of metallo-carboxypeptidase,Catalytic
+PF17130.7,Peptidase_M99_m,beta-barrel domain of carboxypeptidase M99,Catalytic
+PF00450.25,Peptidase_S10,Serine carboxypeptidase,Catalytic
+PF00768.23,Peptidase_S11,D-alanyl-D-alanine carboxypeptidase,Catalytic
+PF02113.18,Peptidase_S13,D-Ala-D-Ala carboxypeptidase 3 (S13) family,Catalytic
+PF05577.15,Peptidase_S28,Serine carboxypeptidase S28,Catalytic
+PF05579.16,Peptidase_S32,Equine arteritis virus serine endopeptidase S32,Catalytic
+PF05576.14,Peptidase_S37,PS-10 peptidase S37,Catalytic
+PF02016.18,Peptidase_S66,LD-carboxypeptidase N-terminal domain,Catalytic
+PF17676.4,Peptidase_S66C,LD-carboxypeptidase C-terminal domain,Catalytic
+PF00959.22,Phage_lysozyme,Phage lysozyme,Catalytic
+PF18013.4,Phage_lysozyme2,Phage tail lysozyme,Catalytic
+PF02244.19,Propep_M14,Carboxypeptidase activation peptide,Catalytic
+PF06605.14,Prophage_tail,Prophage endopeptidase tail,Catalytic
+PF18994.3,Prophage_tailD1,Prophage endopeptidase tail N-terminal domain,Catalytic
+PF01464.23,SLT,Transglycosylase SLT domain,Catalytic
+PF13406.9,SLT_2,Transglycosylase SLT domain,Catalytic
+PF02557.20,VanY,D-alanyl-D-alanine carboxypeptidase,Catalytic

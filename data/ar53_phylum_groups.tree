@@ -1,0 +1,111 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>d__Archaea</name>
+      <clade>
+        <name>Undinarchaeota</name>
+        <branch_length>0.2611770274</branch_length>
+      </clade>
+      <clade>
+        <branch_length>0.2611770274</branch_length>
+        <confidence type="unknown">100.0</confidence>
+        <clade>
+          <branch_length>0.0527608017</branch_length>
+          <confidence type="unknown">80.0</confidence>
+          <clade>
+            <branch_length>0.1075794633</branch_length>
+            <confidence type="unknown">93.0</confidence>
+            <clade>
+              <branch_length>0.0363666195</branch_length>
+              <confidence type="unknown">70.0</confidence>
+              <clade>
+                <branch_length>0.1798167948</branch_length>
+                <confidence type="unknown">100.0</confidence>
+                <clade>
+                  <name>Thermoproteota</name>
+                  <branch_length>0.05919327</branch_length>
+                </clade>
+                <clade>
+                  <name>Asgardarchaeota</name>
+                  <branch_length>0.0882302892</branch_length>
+                </clade>
+              </clade>
+              <clade>
+                <branch_length>0.113330339</branch_length>
+                <confidence type="unknown">100.0</confidence>
+                <clade>
+                  <name>Thermoplasmatota</name>
+                  <branch_length>0.0830481691</branch_length>
+                </clade>
+                <clade>
+                  <name>Halobacteriota</name>
+                  <branch_length>0.1152243412</branch_length>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <branch_length>0.0445154374</branch_length>
+              <confidence type="unknown">40.0</confidence>
+              <clade>
+                <name>Hadarchaeota</name>
+                <branch_length>0.1158061026</branch_length>
+              </clade>
+              <clade>
+                <branch_length>0.0324020343</branch_length>
+                <confidence type="unknown">25.0</confidence>
+                <clade>
+                  <name>Methanobacteriota</name>
+                  <branch_length>0.039001905</branch_length>
+                </clade>
+                <clade>
+                  <name>Hydrothermarchaeota</name>
+                  <branch_length>0.3433070025</branch_length>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <branch_length>0.0609087375</branch_length>
+            <confidence type="unknown">95.0</confidence>
+            <clade>
+              <branch_length>0.100372602</branch_length>
+              <confidence type="unknown">100.0</confidence>
+              <clade>
+                <name>Micrarchaeota</name>
+                <branch_length>0.2292087234</branch_length>
+              </clade>
+              <clade>
+                <name>Iainarchaeota</name>
+                <branch_length>0.1265660227</branch_length>
+              </clade>
+            </clade>
+            <clade>
+              <name>Altiarchaeota</name>
+              <branch_length>0.1903503743</branch_length>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <branch_length>0.14575726560000002</branch_length>
+          <confidence type="unknown">51.0</confidence>
+          <clade>
+            <branch_length>0.11590653420000001</branch_length>
+            <confidence type="unknown">99.0</confidence>
+            <clade>
+              <name>Aenigmatarchaeota</name>
+              <branch_length>0.0831453411</branch_length>
+            </clade>
+            <clade>
+              <name>Nanohaloarchaeota</name>
+              <branch_length>0.4691584617</branch_length>
+            </clade>
+          </clade>
+          <clade>
+            <name>Nanoarchaeota</name>
+            <branch_length>0.1296064861</branch_length>
+          </clade>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
