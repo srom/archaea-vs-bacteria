@@ -1,0 +1,11 @@
+name: AvB
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - jupyter
+  - pandas
+  - conda-forge::biopython
+  - seaborn
+  - python=3.11
+  - matplotlib
