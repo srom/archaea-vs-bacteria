@@ -1,4 +1,4 @@
-# archaea-vs-bacteria
+# Archaea vs Bacteria
 
 Code from paper [TBD]
 
