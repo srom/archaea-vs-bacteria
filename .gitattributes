@@ -1,1 +1,2 @@
 data/gtdb_metadata.csv filter=lfs diff=lfs merge=lfs -text
+data/putative_targets.csv.gz filter=lfs diff=lfs merge=lfs -text

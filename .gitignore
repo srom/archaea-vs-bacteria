@@ -90,3 +90,6 @@ saved_models/
 saved_models_*/
 hyperparameters/
 hyperband_logs/
+
+data/putative_targets.csv
+!data/putative_targets.csv.gz
