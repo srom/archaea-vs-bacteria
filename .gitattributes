@@ -1,2 +1,5 @@
 data/gtdb_metadata.csv filter=lfs diff=lfs merge=lfs -text
 data/putative_targets.csv.gz filter=lfs diff=lfs merge=lfs -text
+data/pgh_db.fasta.gz filter=lfs diff=lfs merge=lfs -text
+data/putative_targets.domtblout.txt.gz filter=lfs diff=lfs merge=lfs -text
+data/putative_targets_structures.tsv.gz filter=lfs diff=lfs merge=lfs -text

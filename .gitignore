@@ -93,3 +93,12 @@ hyperband_logs/
 
 data/putative_targets.csv
 !data/putative_targets.csv.gz
+
+data/putative_targets.domtblout.txt
+!data/putative_targets.domtblout.txt.gz
+
+data/pgh_db.fasta
+!data/pgh_db.fasta.gz
+
+data/putative_targets_structures.tsv
+!data/putative_targets_structures.tsv.gz
