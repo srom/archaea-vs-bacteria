@@ -13600,8 +13600,16 @@
                                                       <branch_length>0.0544673116</branch_length>
                                                     </clade>
                                                     <clade>
-                                                      <name>RS_GCF_900110465.1</name>
-                                                      <branch_length>0.0532140912</branch_length>
+                                                      <branch_length>0.0207254111</branch_length>
+                                                      <confidence type="unknown">99.0</confidence>
+                                                      <clade>
+                                                        <name>RS_GCF_900110465.1</name>
+                                                        <branch_length>0.0324886801</branch_length>
+                                                      </clade>
+                                                      <clade>
+                                                        <name>RS_GCF_000283335.1</name>
+                                                        <branch_length>0.033930131</branch_length>
+                                                      </clade>
                                                     </clade>
                                                   </clade>
                                                   <clade>
