@@ -1,9 +1,7 @@
 #!/bin/bash
 
 #####################################################################################
-# Companion script to make_structural_tree.sh
-# This script makes a phylogenetic tree from amino acid sequence only (as opposed
-# to AA + structural information) for the purpose of comparing the two approaches.
+# This script makes a phylogenetic tree from amino acid sequence.
 #
 # The following software need to be available in $PATH:
 # - MAFFT:    https://mafft.cbrc.jp/alignment/software/
@@ -26,7 +24,6 @@ source helper.sh
 while [[ "$#" -gt 0 ]]; do
     case $1 in
         --work_dir) work_dir="$2"; shift ;;
-        --struct_dir) struct_dir="$2"; shift ;;
         --fasta) fasta="$2"; shift ;;
         --prefix) prefix="$2"; shift ;;
         --n_cpus) n_cpus="$2"; shift ;;
@@ -37,21 +34,6 @@ done
 
 if [ -z "${work_dir}" ] || [ ! -d "${work_dir}" ]; then
     echo "--work_dir is not set or not a directory"
-    exit 1
-fi
-
-if [ -z "${struct_dir}" ] && [ -z "${fasta}" ]; then
-    echo "Set one of --struct_dir or --fasta"
-    exit 1
-fi
-
-if [ ! -z "${struct_dir}" ] && [ ! -z "${fasta}" ]; then
-    echo "Set only one of --struct_dir or --fasta"
-    exit 1
-fi
-
-if [ ! -z "${struct_dir}" ] && [ ! -d "${struct_dir}" ]; then
-    echo "--struct_dir is not a directory"
     exit 1
 fi
 
@@ -78,31 +60,7 @@ alignment_fasta="${work_dir}/sequences.aln.fasta"
 alignment_trimmed_fasta="${work_dir}/sequences.aln.trimmed.fasta"
 final_fasta="${work_dir}/alignment_final.fasta"
 
-##
-# Convert PDB files to fasta if necessary
-##
-
-if [ ! -z "${struct_dir}" ]; then
-    echo "Convert PDB files to FASTA"
-    convert_pdb_start=$(date +%s%N)
-
-    # Create or clear the output FASTA file
-    > ${input_fasta}
-
-    # Loop through all .pdb files in the directory
-    for pdb_file in ${struct_dir}/*.pdb; do
-        sequence_id=$(basename "${pdb_file}" .pdb)
-        pdb_tofasta "${pdb_file}" | sed "s/>PDB|A/>${sequence_id}/" >> ${input_fasta}
-    done
-
-    # Remove .pdb extension from ID
-    sed -i '/^>/s/\.pdb.*//' ${input_fasta}
-
-    convert_pdb_end=$(date +%s%N)
-    echo "Convert PDB to FASTA elapsed time: $(calculate_elapsed_time $convert_pdb_start $convert_pdb_end)"
-else
-    cp ${fasta} ${input_fasta}
-fi
+cp ${fasta} ${input_fasta}
 
 ##
 # Align protein sequences with MAFFT-LINSI.
