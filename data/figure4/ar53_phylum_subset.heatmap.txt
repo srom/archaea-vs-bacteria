@@ -1,0 +1,28 @@
+DATASET_HEATMAP
+SEPARATOR COMMA
+DATASET_LABEL,% genomes in archaeal phylum
+COLOR,#d55e00
+FIELD_LABELS,Lactococcin A,Nocardithiocin,Lactococcin Q,Enterocin NKR-5-3D,Lactococcin MMFII,Sakacin A,Enterocin P,Garvicin Q,Bacteriocin II,Enterocin 1071B,Colicin M,Piricyclamide 7005E2,Caulonodin III,Actagardine,Lactococcin 972,Closticin 574,Colicin E6,Colicin E9
+DASHED_LINES,1
+SHOW_INTERNAL,0
+LEGEND_TITLE,% genomes in archaeal phylum
+LEGEND_LABELS,Lactococcin A,Nocardithiocin,Lactococcin Q,Enterocin NKR-5-3D,Lactococcin MMFII,Sakacin A,Enterocin P,Garvicin Q,Bacteriocin II,Enterocin 1071B,Colicin M,Piricyclamide 7005E2,Caulonodin III,Actagardine,Lactococcin 972,Closticin 574,Colicin E6,Colicin E9
+COLOR_MIN,#ffffff
+COLOR_MAX,#f58231
+USER_MIN_VALUE,0
+USER_MAX_VALUE,2
+DATA
+Aenigmatarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.758,0.758,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Altiarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Asgardarchaeota,1.064,0.0,0.0,0.532,0.0,0.0,0.0,0.532,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Hadarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Halobacteriota,0.0,0.541,0.135,0.0,0.135,0.135,0.271,0.0,0.135,0.135,0.0,0.0,0.135,0.135,0.0,0.0,0.0,0.0
+Hydrothermarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Iainarchaeota,0.0,0.0,0.0,0.0,0.0,1.471,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Methanobacteriota,0.483,0.0,0.0,0.483,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Micrarchaeota,0.413,0.0,0.0,0.0,0.0,0.413,0.413,0.0,0.0,0.0,0.413,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nanoarchaeota,0.144,0.0,0.0,0.144,0.288,0.0,0.0,0.144,0.0,0.0,0.0,0.144,0.0,0.144,0.0,0.0,0.0,0.0
+Nanohaloarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thermoplasmatota,0.0,0.0,0.502,0.0,0.0,0.0,0.0,0.0,0.167,0.0,0.0,0.0,0.167,0.0,0.0,0.0,0.0,0.0
+Thermoproteota,0.0,0.142,0.0,0.142,0.142,0.0,0.142,0.0,0.0,0.0,0.142,0.142,0.0,0.0,0.0,0.0,0.0,0.0
+Undinarchaeota,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
