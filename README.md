@@ -1,6 +1,12 @@
 # Archaea vs Bacteria
 
-Code from paper [TBD]
+Code from paper:
+
+>Systematic genome-guided discovery of antagonistic interactions between archaea and bacteria
+>
+>Romain Strock, Valerie WC Soo, Antoine Hocher, Tobias Warnecke<br>
+>bioRxiv 2024.09.18.613068; doi: https://doi.org/10.1101/2024.09.18.613068
+
 
 ## Content
 
