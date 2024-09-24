@@ -15,4 +15,13 @@ Code from paper:
 - `figures/`: all unassembled figures as produced by the relevant notebooks.
 - `data/`: input data and data produced by the scripts and notebooks in this repo.
 
+## Install
+
+```sh
+git clone https://github.com/srom/archaea-vs-bacteria.git
+cd archaea-vs-bacteria
+conda env create -f environment.yml
+conda activate AvB
+```
+
 Note: some of the larger files in `data/` are tracked with [Git Large File Storage](https://git-lfs.com/). They won't get  downloaded with `git pull` or through GitHub's UI. To download these files, install `git-lfs` and use `git lfs pull`.
