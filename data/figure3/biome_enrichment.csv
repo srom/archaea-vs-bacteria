@@ -1,0 +1,15 @@
+﻿biome,enriched,total,enriched_percent,likelihood,likelihood_null,likelihood_ratio
+Rumen Microbiome,1,1,100,18.9,1.7,11.1
+Biogas Plant,1,1,100,18,3,6
+Fermented Beverages,1,1,100,6.5,1.1,5.9
+Hydrothermal Environment,23,26,88,7.6,2.4,3.2
+Human Microbiome,2,2,100,43.2,14.6,3
+Oil-Contaminated Environment,14,29,48,3.9,1.6,2.5
+Mammals Microbiome,1,1,100,12.9,6.6,2
+Marine Sediments,14,19,74,7.6,4.1,1.8
+Wastewater,2,3,67,25.3,19.4,1.3
+Hypersaline Environment,1,13,8,0.9,0.8,1.2
+Plant Microbiome,1,1,100,5.7,5.1,1.1
+Freshwater Sediments,8,19,42,4.3,3.8,1.1
+Marine Environment,26,63,41,19.3,19.3,1
+Freshwater Environment,10,32,31,6.2,8.6,0.7
