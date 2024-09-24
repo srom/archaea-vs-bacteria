@@ -3,3 +3,4 @@ data/putative_targets.csv.gz filter=lfs diff=lfs merge=lfs -text
 data/pgh_db.fasta.gz filter=lfs diff=lfs merge=lfs -text
 data/putative_targets.domtblout.txt.gz filter=lfs diff=lfs merge=lfs -text
 data/putative_targets_structures.tsv.gz filter=lfs diff=lfs merge=lfs -text
+data/gtdb_r214.1/bac120_metadata_r214.tsv.gz filter=lfs diff=lfs merge=lfs -text
