@@ -19,6 +19,7 @@ Code from paper:
 
 ```sh
 git clone https://github.com/srom/archaea-vs-bacteria.git
+git lfs pull origin main  # optional - see below
 cd archaea-vs-bacteria
 conda env create -f environment.yml
 conda activate AvB
