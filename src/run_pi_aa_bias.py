@@ -10,10 +10,11 @@ from multiprocessing import Process, Queue
 from queue import Empty
 import tempfile
 
-from isoelectric import ipc
 import numpy as np
 import pandas as pd
 from Bio import SeqIO, SeqRecord
+
+from src.external.isoelectric import calculate_molecular_weight, predict_isoelectric_point
 
 
 logger = logging.getLogger()
@@ -173,8 +174,8 @@ def process_record(record : SeqRecord) -> pd.Series:
     if sequence[-1] == '*':
         sequence = sequence[:-1]
 
-    molecular_weight = np.round(ipc.calculate_molecular_weight(sequence), 2)
-    pI = np.round(ipc.predict_isoelectric_point(sequence), 2)
+    molecular_weight = np.round(calculate_molecular_weight(sequence), 2)
+    pI = np.round(predict_isoelectric_point(sequence), 2)
 
     data = {
         'id': record.id,
