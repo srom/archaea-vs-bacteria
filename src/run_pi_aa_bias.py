@@ -62,7 +62,7 @@ def main():
         # Split large fasta files into smaller temporary fasta files
         logger.info(f'Splitting large fasta file into {len(temp_fasta_files)} temporary fasta files')
         current_file_index = 0
-        for record in SeqIO.parse(input_fasta, 'f'):
+        for record in SeqIO.parse(input_fasta, 'fasta'):
             SeqIO.write(record, temp_fasta_files[current_file_index], 'fasta')
             current_file_index = (current_file_index + 1) % len(temp_fasta_files)
 
@@ -77,7 +77,7 @@ def main():
         for i in range(n_cpu):
             p = Process(target=worker_main, args=(
                 i,
-                temp_fasta_filepaths[i]
+                temp_fasta_filepaths[i],
                 queue,
             ))
             p.start()
