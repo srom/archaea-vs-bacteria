@@ -3,15 +3,12 @@ Compute pI and AA distribution for all proteins in input fasta file.
 """
 import argparse
 import logging
-import os
 import subprocess
 import sys
 from pathlib import Path
 from multiprocessing import Process, Queue
 from queue import Empty
 import tempfile
-from typing import List
-import re
 
 from isoelectric import ipc
 import numpy as np
