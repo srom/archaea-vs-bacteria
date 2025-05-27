@@ -1,6 +1,12 @@
 # Archaea vs Bacteria
 
-Code from paper:
+Code from paper: 
+
+> Archaea produce peptidoglycan hydrolases that kill bacteria
+>
+> Romain Strock, Valerie WC Soo, Pauline Misson, Georgia Roumelioti, Pavel V Shliaha, Antoine Hocher, Tobias Warnecke
+
+Preprint:
 
 >Systematic genome-guided discovery of antagonistic interactions between archaea and bacteria
 >
