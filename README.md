@@ -4,15 +4,8 @@ Code from paper:
 
 > Archaea produce peptidoglycan hydrolases that kill bacteria
 >
-> Romain Strock, Valerie WC Soo, Pauline Misson, Georgia Roumelioti, Pavel V Shliaha, Antoine Hocher, Tobias Warnecke
-
-Preprint:
-
->Systematic genome-guided discovery of antagonistic interactions between archaea and bacteria
->
->Romain Strock, Valerie WC Soo, Antoine Hocher, Tobias Warnecke<br>
->bioRxiv 2024.09.18.613068; doi: https://doi.org/10.1101/2024.09.18.613068
-
+> Romain Strock, Valerie WC Soo, Pauline Misson, Georgia Roumelioti, Pavel V Shliaha, Antoine Hocher, Tobias Warnecke<br>
+> PLOS Biology 23(8): e3003235; doi: https://doi.org/10.1371/journal.pbio.3003235
 
 ## Content
 
