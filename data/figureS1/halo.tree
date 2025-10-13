@@ -2,6 +2,7 @@
   <phylogeny rooted="false">
     <clade>
       <name>100.0:p__Halobacteriota</name>
+      <branch_length>0.6864385921</branch_length>
       <clade>
         <branch_length>0.0983286572</branch_length>
         <confidence type="unknown">67.0</confidence>
